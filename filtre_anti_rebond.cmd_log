@@ -1,0 +1,2 @@
+xst -ise "H:/tp_numerique/filtre_anti-rebond/filtre_anti-rebond.ise" -intstyle ise -ifn filtre_anti_rebond.xst -ofn filtre_anti_rebond.syr
+xst -ise "H:/tp_numerique/filtre_anti-rebond/filtre_anti-rebond.ise" -intstyle ise -ifn filtre_anti_rebond.xst -ofn filtre_anti_rebond.syr

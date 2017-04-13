@@ -1,0 +1,5 @@
+restart -f
+force -freeze sim:/filtre_anti_rebond//h 1 5, 0 {20 ps} -r 30
+force -freeze sim:/filtre_anti_rebond//entrée 0 0, 1 {760000 ps}
+force -freeze sim:/filtre_anti_rebond//r 1 0, 0 {10}
+run 10000000

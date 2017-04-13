@@ -1,0 +1,123 @@
+m255
+13
+cModel Technology
+dH:\tp_numerique\filtre_anti-rebond
+T_opt
+V8SPA:NejTgz]9jd^KCFaS3
+04 8 6 work compteur compte 0
+o-quiet -auto_acc_if_foreign -work work
+tExplicit 1
+OE;O;6.2e;35
+T_opt1
+VMEzaY`SFZkH:m`:IFDC;92
+04 10 8 work sequenceur commande 0
+o-quiet -auto_acc_if_foreign -work work
+tExplicit 1
+OE;O;6.2e;35
+T_opt2
+VRa>T_>K;j;QnV@@QEDM=j1
+04 18 12 work filtre_anti_rebond structurelle 0
+o-quiet -auto_acc_if_foreign -work work
+tExplicit 1
+OE;O;6.2e;35
+Ecompteur
+w1258451685
+DP ieee std_logic_arith GJbAT?7@hRQU9IQ702DT]2
+DP ieee std_logic_unsigned hEMVMlaNCR^<OOoVNV;m90
+DP ieee numeric_std =NSdli^?T5OD8;4F<blj<3
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+32
+dH:\tp_numerique\filtre_anti-rebond
+8H:/tp_numerique/filtre_anti-rebond/vhdl.vhd
+FH:/tp_numerique/filtre_anti-rebond/vhdl.vhd
+l0
+L6
+VL2;cAEmo9Fb6T386GEEY50
+OE;C;6.2e;35
+o-work work
+tExplicit 1
+Acompte
+DP ieee std_logic_arith GJbAT?7@hRQU9IQ702DT]2
+DP ieee std_logic_unsigned hEMVMlaNCR^<OOoVNV;m90
+DP ieee numeric_std =NSdli^?T5OD8;4F<blj<3
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+DE work compteur L2;cAEmo9Fb6T386GEEY50
+32
+M4 ieee std_logic_1164
+M3 ieee numeric_std
+M2 ieee std_logic_unsigned
+M1 ieee std_logic_arith
+l15
+L13
+VOH1>1VIHa`W[jM@2YEkSM3
+OE;C;6.2e;35
+o-work work
+tExplicit 1
+Efiltre_anti_rebond
+w1258451685
+DP ieee std_logic_arith GJbAT?7@hRQU9IQ702DT]2
+DP ieee std_logic_unsigned hEMVMlaNCR^<OOoVNV;m90
+DP ieee numeric_std =NSdli^?T5OD8;4F<blj<3
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+32
+dH:\tp_numerique\filtre_anti-rebond
+8H:/tp_numerique/filtre_anti-rebond/vhdl.vhd
+FH:/tp_numerique/filtre_anti-rebond/vhdl.vhd
+l0
+L88
+VCHB]MS83]eU8mzjf9=8ZI2
+OE;C;6.2e;35
+o-work work
+tExplicit 1
+Astructurelle
+DE work compteur L2;cAEmo9Fb6T386GEEY50
+DE work sequenceur gUM1_A^o8UOYDA?i]^m621
+DP ieee std_logic_arith GJbAT?7@hRQU9IQ702DT]2
+DP ieee std_logic_unsigned hEMVMlaNCR^<OOoVNV;m90
+DP ieee numeric_std =NSdli^?T5OD8;4F<blj<3
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+DE work filtre_anti_rebond CHB]MS83]eU8mzjf9=8ZI2
+32
+M4 ieee std_logic_1164
+M3 ieee numeric_std
+M2 ieee std_logic_unsigned
+M1 ieee std_logic_arith
+l113
+L95
+VMRSYImHXUZFz8J7lh01=d3
+OE;C;6.2e;35
+o-work work
+tExplicit 1
+Esequenceur
+w1258451685
+DP ieee std_logic_arith GJbAT?7@hRQU9IQ702DT]2
+DP ieee std_logic_unsigned hEMVMlaNCR^<OOoVNV;m90
+DP ieee numeric_std =NSdli^?T5OD8;4F<blj<3
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+32
+dH:\tp_numerique\filtre_anti-rebond
+8H:/tp_numerique/filtre_anti-rebond/vhdl.vhd
+FH:/tp_numerique/filtre_anti-rebond/vhdl.vhd
+l0
+L38
+VgUM1_A^o8UOYDA?i]^m621
+OE;C;6.2e;35
+o-work work
+tExplicit 1
+Acommande
+DP ieee std_logic_arith GJbAT?7@hRQU9IQ702DT]2
+DP ieee std_logic_unsigned hEMVMlaNCR^<OOoVNV;m90
+DP ieee numeric_std =NSdli^?T5OD8;4F<blj<3
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+DE work sequenceur gUM1_A^o8UOYDA?i]^m621
+32
+M4 ieee std_logic_1164
+M3 ieee numeric_std
+M2 ieee std_logic_unsigned
+M1 ieee std_logic_arith
+l48
+L45
+VOK29W7Df^TWN3fcDFTa^`0
+OE;C;6.2e;35
+o-work work
+tExplicit 1

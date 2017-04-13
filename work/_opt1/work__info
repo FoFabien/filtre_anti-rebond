@@ -1,0 +1,82 @@
+m255
+13
+cModel Technology
+dH:\tp_numerique\filtre_anti-rebond
+T_opt
+V8SPA:NejTgz]9jd^KCFaS3
+04 8 6 work compteur compte 0
+o-quiet -auto_acc_if_foreign -work work
+tExplicit 1
+OE;O;6.2e;35
+T_opt1
+VMEzaY`SFZkH:m`:IFDC;92
+04 10 8 work sequenceur commande 0
+o-quiet -auto_acc_if_foreign -work work
+tExplicit 1
+OE;O;6.2e;35
+Ecompteur
+w1258443793
+DP ieee std_logic_arith GJbAT?7@hRQU9IQ702DT]2
+DP ieee std_logic_unsigned hEMVMlaNCR^<OOoVNV;m90
+DP ieee numeric_std =NSdli^?T5OD8;4F<blj<3
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+dH:\tp_numerique\filtre_anti-rebond
+8vhdl.vhd
+Fvhdl.vhd
+l0
+L6
+VJ1eRb^OoIVeFJ>`EdBX311
+OE;C;6.2e;35
+31
+o-explicit -93
+tExplicit 1
+Acompte
+DP ieee std_logic_arith GJbAT?7@hRQU9IQ702DT]2
+DP ieee std_logic_unsigned hEMVMlaNCR^<OOoVNV;m90
+DP ieee numeric_std =NSdli^?T5OD8;4F<blj<3
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+DE work compteur J1eRb^OoIVeFJ>`EdBX311
+l15
+L13
+VT<jT954`_7lJmC3?0L3[N3
+OE;C;6.2e;35
+31
+M4 ieee std_logic_1164
+M3 ieee numeric_std
+M2 ieee std_logic_unsigned
+M1 ieee std_logic_arith
+o-explicit -93
+tExplicit 1
+Esequenceur
+w1258443793
+DP ieee std_logic_arith GJbAT?7@hRQU9IQ702DT]2
+DP ieee std_logic_unsigned hEMVMlaNCR^<OOoVNV;m90
+DP ieee numeric_std =NSdli^?T5OD8;4F<blj<3
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+31
+dH:\tp_numerique\filtre_anti-rebond
+8vhdl.vhd
+Fvhdl.vhd
+l0
+L38
+Vo:4ZnBQ8GXLA@:3doLcXG0
+OE;C;6.2e;35
+o-explicit -93
+tExplicit 1
+Acommande
+DP ieee std_logic_arith GJbAT?7@hRQU9IQ702DT]2
+DP ieee std_logic_unsigned hEMVMlaNCR^<OOoVNV;m90
+DP ieee numeric_std =NSdli^?T5OD8;4F<blj<3
+DP ieee std_logic_1164 GH1=`jDDBJ=`LM;:Ak`kf2
+DE work sequenceur o:4ZnBQ8GXLA@:3doLcXG0
+31
+M4 ieee std_logic_1164
+M3 ieee numeric_std
+M2 ieee std_logic_unsigned
+M1 ieee std_logic_arith
+l48
+L45
+Ve;[RM^ie[`cAP0V0:kT0Q2
+OE;C;6.2e;35
+o-explicit -93
+tExplicit 1

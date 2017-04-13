@@ -1,0 +1,6 @@
+restart -f
+force -freeze h 1 20, 0 {70 ps} -r 100
+force -freeze fin_comptage 1 0, 0 300 ps,  1 {500 ps}
+force -freeze entrée 0 0, 1 10, 0 20, 1 40, 0 60, 1 {200 ps} -r 300
+force -freeze r 0 0
+run 10000

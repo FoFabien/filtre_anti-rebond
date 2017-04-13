@@ -1,0 +1,24 @@
+Release 8.2.03i - xst I.34
+Copyright (c) 1995-2006 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to ./xst/projnav.tmp
+CPU : 0.00 / 1.84 s | Elapsed : 0.00 / 2.00 s
+ 
+--> 
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file "//narrhavas/fforest/tp_numerique/filtre_anti-rebond/vhdl.vhd" in Library work.
+WARNING:HDLParsers:3530 - Time stamp of file "//narrhavas/fforest/tp_numerique/filtre_anti-rebond/vhdl.vhd" is newer than current system time.
+Architecture compte of Entity compteur is up to date.
+Architecture commande of Entity sequenceur is up to date.
+Architecture structurelle of Entity filtre_anti_rebond is up to date.
+CPU : 1.02 / 2.86 s | Elapsed : 1.00 / 3.00 s
+ 
+--> 
+
+Total memory usage is 107560 kilobytes
+
+Number of errors   :    0 (   0 filtered)
+Number of warnings :    1 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+
